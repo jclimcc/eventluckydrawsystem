@@ -19,5 +19,5 @@ class Winner extends Model
     {
         return $this->belongsTo(Visitor::class);
     }
-    
+
 }
